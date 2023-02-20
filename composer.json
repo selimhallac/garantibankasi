@@ -1,0 +1,18 @@
+{
+    "name": "phpdev/garantibankasi",
+    "description": "Garanti Bankkası, Banka Entegrasyonu Hesap Hareketleri",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phpdev\\Garantibankasi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Selim Hallaç",
+            "email": "selimhallac@gmail.com"
+        }
+    ],
+    "require": {}
+}
